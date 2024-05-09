@@ -1,0 +1,16 @@
+.form-label{
+    display: flex;
+    
+}
+
+input[type ="email" i]{
+    height:19px;
+    width:54vh;
+    
+    margin-bottom: 23px;
+}
+input[type ="password" i]{
+    height:19px;
+    width:54vh;
+    margin-bottom: 23px;
+}
